@@ -11004,8 +11004,8 @@ div:hover .img-magnifier-glass{
 		padding: 0;
 		padding-top: 10rem;
 		background-size: cover;}
-	#alignment p{
-		font-size: 1.8rem;
+	#alignment p, #alignment ul{
+		font-size: 1.3rem;
 	}
 	#alignment h2{
 		font-size: 2.5rem;
